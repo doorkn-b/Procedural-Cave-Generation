@@ -11,5 +11,4 @@ Here is an example gif of the results it can reproduce.
 This was created in [Unity3D](https://unity.com/).
 
 The Unity build files have been included in the repo, to run this, clone the repo and run the 'Cave.exe' build file.
-
 This should open a window with a sample cave generated, left click to generate more.
