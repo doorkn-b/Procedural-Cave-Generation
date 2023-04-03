@@ -1,9 +1,7 @@
 # Procedural Cave Generation
 This repository contains the a Procedural Cave Generation project I have created for GSOC'23 MLPack.
 
-This cave generation underlies the concept and process of Cellular Automata.
-
-In consise, the process involves transforming with respect to it's neighbouring tiles.
+This cave generation underlies the concept and process of Cellular Automata. In consise, the process involves transforming with respect to it's neighbouring tiles.
 
 Here is an example gif of the results it can reproduce.
 ![alt text](https://github.com/doorkn-b/Procedural-Cave-Generation/blob/master/CaveExample.gif)
