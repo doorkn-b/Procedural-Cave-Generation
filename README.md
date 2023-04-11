@@ -10,4 +10,4 @@ This was created in [Unity3D](https://unity.com/).
 The Unity build files have been included in the repo, to run this, clone the repo and run the 'Cave.exe' build file.
 This should open a window with a sample cave generated, left click to generate more.
 
-I have also included the Unity script files for reference, there are quite a few additional features I have implemented not exactly relevant to the highlighted functionality which may be ignored.
+I have also included the Unity script files for reference, there are quite a few additional features I have implemented not exactly relevant to the highlighted functionality which can be ignored.
