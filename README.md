@@ -2,7 +2,7 @@
 This repository contains the a Procedural Cave Generation project I have created.
 This cave generation underlies the concept and process of Cellular Automata. In consise, the process involves transforming with respect to it's neighbouring tiles to organize random noise into desired patterns.
 
-Here is an example gif of the results it can reproduce.
+# Examples
 ![alt text](https://github.com/doorkn-b/Procedural-Cave-Generation/blob/master/CaveExample.gif)
 
 This was created in [Unity3D](https://unity.com/).
