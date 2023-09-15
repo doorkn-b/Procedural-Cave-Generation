@@ -1,6 +1,6 @@
 # Procedural Cave Generation
 This repository contains the a Procedural Cave Generation project I have created.
-This cave generation underlies the concept and process of Cellular Automata. In consise, the process involves transforming with respect to it's neighbouring tiles to organize random noise into desired patterns.
+This cave generation underlies the concept of Cellular Automata. In consise, the process involves transforming with respect to it's neighbouring tiles to organize random noise into desired patterns.
 
 # Examples
 ![alt text](https://github.com/doorkn-b/Procedural-Cave-Generation/blob/master/CaveExample.gif)
